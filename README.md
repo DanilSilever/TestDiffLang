@@ -1,2 +1,1 @@
-# TestDiffLang
- 
+This is my repository of studying Selenium course in https://stepik.org/course/575/info
